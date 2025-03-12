@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/gustavo-leon-lenio/qubt-template
 
 go 1.24.1
 
